@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="InventorySystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/InventorySystem</output-path>
+    <root id="root">
+      <element id="archive" name="InventorySystem.jar">
+        <element id="module-output" name="InventorySystem" />
+      </element>
+    </root>
+  </artifact>
+</component>
